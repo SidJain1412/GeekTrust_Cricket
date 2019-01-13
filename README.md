@@ -8,3 +8,7 @@ It's the last 4 overs of the match. Lengaburu needs 40 runs to win with 3 wicket
 In this problem you have to simulate the last 4 overs (using weighted random number generation based on probability), generate ball by ball commentary, and determine the final result. Each player has a different probability for scoring runs.
 
 Refer to the PDF for more details
+
+### Probabilities:
+
+![alt text](https://github.com/SidJain1412/GeekTrust_Cricket/blob/master/Probabilities.PNG "Probabilites for the question")
