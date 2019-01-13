@@ -12,3 +12,5 @@ Refer to the PDF for more details
 ### Probabilities:
 
 ![alt text](https://github.com/SidJain1412/GeekTrust_Cricket/blob/master/Probabilities.PNG "Probabilites for the question")
+
+Unaccepted solution for GeekTrust problem 4
